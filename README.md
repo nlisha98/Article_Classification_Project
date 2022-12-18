@@ -168,5 +168,5 @@ My model performance that I get from this project are as follows where I used Co
 </p>
 
 ## Acknowledgement
-Special thanks to **(https://raw.githubusercontent.com/susanli2016/PyCon-Canada-2019-NLP-Tutorial/master/bbc-text.csv)** for the dataset used for this project.
+Special thanks to **(https://raw.githubusercontent.com/susanli2016/PyCon-Canada-2019-NLP-Tutorial/master/bbc-text.csv)** for the data source used for this project.
 
